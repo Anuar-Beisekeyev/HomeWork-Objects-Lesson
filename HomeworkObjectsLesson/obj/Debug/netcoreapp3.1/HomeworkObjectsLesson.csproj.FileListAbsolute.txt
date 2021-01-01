@@ -1,0 +1,26 @@
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.exe
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.deps.json
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.runtimeconfig.json
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.runtimeconfig.dev.json
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.dll
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.pdb
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.csprojAssemblyReference.cache
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.AssemblyInfoInputs.cache
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.AssemblyInfo.cs
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.dll
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.pdb
+G:\Проекты\Язык програмирования Тролсен\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.genruntimeconfig.cache
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.dll
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.pdb
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.exe
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.deps.json
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.runtimeconfig.json
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.dll
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\bin\Debug\netcoreapp3.1\HomeworkObjectsLesson.pdb
+G:\Проекты\HomeworkObjectsLesson\HomeworkObjectsLesson\obj\Debug\netcoreapp3.1\HomeworkObjectsLesson.genruntimeconfig.cache
